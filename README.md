@@ -53,7 +53,7 @@ Streamlit
 
 ## Deployment
 
-To deploy this project run this commod onto your python ide terminal
+To deploy this project run this command onto your python ide terminal
 
 ```bash
    streamlit run "location of the titanic-survival-prediction-webapp"
