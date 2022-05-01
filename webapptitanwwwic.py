@@ -7,7 +7,7 @@ Created on Mon Apr  4 11:09:57 2022
 import numpy as np
 import pickle
 import streamlit as st
-loaded_model=pickle.load(open('','rb'))
+loaded_model=pickle.load(open('Titanic_trained_model.sav','rb'))
 
 def titanic_prediction(input_data):
     
